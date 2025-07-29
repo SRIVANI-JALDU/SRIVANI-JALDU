@@ -1,1 +1,1 @@
-Hi, I’m @SRIVANI-JALDU.I’m interested in ...Data Scienece,Manchine Leaerning & AI.I’m currently learning Artificial Intelligence.I’m looking to collaborate on data science projects and AI projects.I am currently working as an intern in Nyeras Careers and working on a Data Science project and as an AI Intern in EliteTech and working on AI Projects.Worked as an Summer Intern For Smart Bridge on Machine learning and Gen AI in 2024 & 2025.
+
