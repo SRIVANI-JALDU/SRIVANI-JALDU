@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Srivani the Developer" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SRIVANI-JALDU/SRIVANI-JALDU/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SRIVANI-JALDU/SRIVANI-JALDU/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SRIVANI-JALDU/SRIVANI-JALDU/output/pacman-contribution-graph.svg">
+</picture>
 
 <h1 align="center">Hi, I'm <span style="color:#007acc;">SRI VANI JALDU </span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
 
